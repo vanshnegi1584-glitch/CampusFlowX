@@ -1,0 +1,9 @@
+from,to
+Main Gate,Reception
+Reception,Block A Entrance
+Block A Entrance,Lift A
+Lift A,Fourth Floor
+Fourth Floor,423(LT)
+Main Gate,Canteen
+Canteen,Library
+Third Floor,013(CR)
