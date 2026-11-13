@@ -1,0 +1,6 @@
+build/
+build-make/
+smoke-data/
+CampusFlowX
+CampusFlowX.exe
+*.tmp

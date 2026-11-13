@@ -1,0 +1,38 @@
+from,to,distance_minutes
+Main Gate,Reception,2
+Reception,Block A Entrance,1
+Block A Entrance,Lift A,1
+Lift A,Fourth Floor,2
+Fourth Floor,423(LT),1
+Main Gate,Block B Entrance,3
+Block B Entrance,Staircase B,1
+Staircase B,Second Floor,2
+Second Floor,113(CR),1
+Reception,Block C Entrance,2
+Block C Entrance,Lift C,1
+Lift C,Third Floor,2
+Third Floor,013(CR),1
+Main Gate,Canteen,4
+Canteen,Library,2
+Library,Block D Entrance,1
+Block D Entrance,Ground Floor Lab,1
+Ground Floor Lab,102(LAB),1
+Fourth Floor,424(LT),1
+Second Floor,114(CR),1
+Third Floor,213(CR),1
+Block A Entrance,Block B Entrance,2
+Block B Entrance,Block C Entrance,2
+Block C Entrance,Block D Entrance,2
+Main Gate,Sports Complex,5
+Sports Complex,Gym,1
+Gym,Playground,2
+Reception,Admin Block,1
+Admin Block,Principal Office,1
+Principal Office,Staff Room,1
+Fourth Floor,Terrace,2
+Second Floor,Corridor Junction,1
+Corridor Junction,115(CR),1
+Corridor Junction,116(CR),1
+Third Floor,Corridor Junction 2,1
+Corridor Junction 2,214(CR),1
+Corridor Junction 2,215(CR),1
